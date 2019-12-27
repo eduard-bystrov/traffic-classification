@@ -1,4 +1,3 @@
-numpy
-torch
-tqdm
-matplotlib
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92a43949a3ec760220c7a0570658b6bbca91c4bd73a010ecbc18bc0430d094f
+size 27
